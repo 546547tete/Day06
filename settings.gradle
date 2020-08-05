@@ -1,0 +1,4 @@
+rootProject.name='Day06'
+include ':app'
+include ':httplibrary'
+include ':mvplibrary'
